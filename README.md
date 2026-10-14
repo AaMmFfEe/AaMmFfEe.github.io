@@ -8,7 +8,7 @@
 
   ♡⸝⸝ <a href="https://aammffee.github.io">Link directo</a> ♡⸝⸝
 
-  ₊‧°𐐪♡𐑂°‧₊ Plantilla: https://github.com/rishabhnmishra/Portfolio-Website-Template.git ₊‧°𐐪♡𐑂°‧₊
+  ₊‧°𐐪♡𐑂°‧₊ <a href="https://github.com/rishabhnmishra/Portfolio-Website-Template.git">Plantilla utilizada ₊‧°𐐪♡𐑂°‧₊
 
  ✮⋆˙ Créditos a Rishabh Mishra por la plantilla ✮⋆˙
 
